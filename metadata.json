@@ -1,0 +1,5 @@
+{
+  "name": "CasinoCoin Central",
+  "description": "A comprehensive tool for CasinoCoin (CSC) on XRPL, featuring real-time richlist scanning, holder distribution analysis, token metrics, and AI-powered insights.",
+  "requestFramePermissions": []
+}
